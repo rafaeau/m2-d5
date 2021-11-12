@@ -1,0 +1,33 @@
+body, .navbar {
+    background-color: rgb(20, 20, 20);
+}
+
+.btn-group  {
+    max-height: 30px;
+}
+
+.two-icons {
+    max-height: 25px;
+    display: flex;
+    position: absolute;
+    left: 94%;
+    /* border: 1px solid ghostwhite; */
+}
+
+.group-icons {
+    border: 1px solid ghostwhite;
+    padding: 2px 5px 2px 5px;
+}
+
+.div-for-tvshow {
+position: relative;
+display: flex;
+flex-direction: row;
+flex-basis: auto;
+
+}
+
+.dropdown-menu {
+    left: auto !important;
+    right: 0 !important;
+}
