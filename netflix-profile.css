@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(34, 34, 34) !important;
+  background-color: rgb(20, 20, 20) !important;
 }
 
 .container {
-  background-color: rgb(34, 34, 34);
+  background-color: rgb(20, 20, 20);
   color: white;
   width: 600px !important;
 }
@@ -25,7 +25,7 @@ hr {
   font-weight: 50;
 }
 .edit-button {
-  background-color: rgb(34, 34, 34);
+  background-color: rgb(20, 20, 20);
   padding-right: 55px;
   padding-left: 55px;
   padding-top: 10px;
@@ -42,14 +42,14 @@ hr {
 }
 
 .custom-control-label::after {
-  background-color: rgb(34, 37, 34) !important;
+  background-color: rgb(20, 20, 20) !important;
   border: 1px solid gray;
   height: 30px !important;
   width: 30px !important;
 }
 
 .custom-control-label::before {
-  background-color: rgb(34, 37, 34) !important;
+  background-color: rgb(20, 20, 20) !important;
   border: 1px solid gray;
   height: 30px !important;
   width: 30px !important;
@@ -72,8 +72,9 @@ label.custom-control-label {
 }
 
 .edit-button-only {
-  background-color: rgb(34, 34, 34);
-
+  background-color: rgb(20, 20, 20);
   color: gray;
+  padding-left: 15px;
+  padding-right: 15px;
   border: 1px solid gray;
 }
