@@ -23,10 +23,10 @@ body, .navbar {
 }
 
 .div-for-tvshow {
-position: relative;
-display: flex;
-flex-direction: row;
-flex-basis: auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-basis: auto;
 }
 
 .dropdown-menu {
